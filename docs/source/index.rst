@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+oukubet.com – Đại lý chính thức cung cấp link trực tiếp vào nhà cái KUBET
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+oukubet.com – Đại lý chính thức cung cấp link trực tiếp vào nhà cái `KUBET <https://oukubet.com/>`_. Tham gia cá cược thể thao, casino, e-sports, xổ số,..... uy tín, đổi thưởng nhanh. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với đội ngũ hỗ trợ luôn sẵn sàng 24/7, chúng tôi cam kết mang đến trải nghiệm cá cược không chỉ hấp dẫn và công bằng mà còn đầy tiềm năng cho những phút chiến thắng rực rỡ.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 1119 Đ. Bùi Văn Hòa, Long Bình, Thành phố Biên Hòa, Đồng Nai, Việt Nam. 
 
-Contents
---------
+Phone: 0985780330. 
 
-.. toctree::
+Email: oukubetcom@gmail.com. 
 
-   usage
-   api
+Website: https://oukubet.com/
+
+#kubet #oukubet #outkubet_com #nha_cai_kubet #ku_casino #oukubetcom
